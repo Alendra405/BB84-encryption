@@ -24,3 +24,15 @@ Security comes from quantum mechanics: any eavesdropping introduces detectable e
 pip install qiskit qiskit-aer numpy
 pip install qiskit
 pip install numpy
+```
+# Output
+```bash
+=== Without eave :> YES! ===
+Errors: 0.00%
+Channel is secure!
+Final key: [np.int32(0), np.int32(1), np.int32(1), np.int32(0), np.int32(1), np.int32(1), np.int32(1), np.int32(0), np.int32(1), np.int32(1), np.int32(1), np.int32(0), np.int32(0), np.int32(1), np.int32(0)]     
+
+=== With eave (*_*)HA? ===
+Errors: 33.33%
+Eave was found!!!!!!.
+Final key: None
