@@ -19,7 +19,7 @@ A simple and educational implementation of the **BB84** quantum key distribution
 
 Security comes from quantum mechanics: any eavesdropping introduces detectable errors (≈25% error rate).
 
-## 🚀 Installation
+## 🚀 Install libraries
 ```bash
 pip install qiskit qiskit-aer numpy
 pip install qiskit
