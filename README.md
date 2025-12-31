@@ -22,3 +22,5 @@ Security comes from quantum mechanics: any eavesdropping introduces detectable e
 ## 🚀 Installation
 ```bash
 pip install qiskit qiskit-aer numpy
+pip install qiskit
+pip install numpy
