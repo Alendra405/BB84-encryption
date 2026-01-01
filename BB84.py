@@ -61,9 +61,10 @@ def bb84_protocol(n_qubits=32, eavesdrop=False):
         return final_key
 
 print("=== Without eave :> YES! ===")
-key_safe = bb84_protocol(32, eavesdrop=False)
+key_safe = bb84_protocol(32, eavesdrop=False) #Run protocol without eave
 print("Final key:", key_safe)
 
 print("\n=== With eave (*_*)HA? ===")
-key_eve = bb84_protocol(32, eavesdrop=True)
+key_eve = bb84_protocol(32, eavesdrop=True) #Run protocol with eave
+
 print("Final key:", key_eve)
