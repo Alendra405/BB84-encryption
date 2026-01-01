@@ -38,3 +38,8 @@ Eave was found!!!!!!.
 Final key: None
 ```
 ## ¯\\_(ツ)_/¯ install with debian/ubuntu
+```bash
+sudo apt update && sudo apt install git
+git clone https://github.com/Alendra405/BB84-encryption.git
+```
+👋(ツ)🤚 End!
