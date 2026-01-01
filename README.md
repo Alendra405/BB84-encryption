@@ -42,4 +42,7 @@ Final key: None
 sudo apt update && sudo apt install git
 git clone https://github.com/Alendra405/BB84-encryption.git
 ```
+
+![fig3](https://github.com/user-attachments/assets/4c4fab10-2e9c-484d-9190-9fbf58ce6d7b)
+
 👋(ツ)🤚 End!
