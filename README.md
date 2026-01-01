@@ -37,4 +37,4 @@ Errors: 33.33%
 Eave was found!!!!!!.
 Final key: None
 ```
-## ¯\_(ツ)_/¯ install with debian/ubuntu
+## ¯\\_(ツ)_/¯ install with debian/ubuntu
