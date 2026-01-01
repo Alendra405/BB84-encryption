@@ -25,7 +25,7 @@ pip install qiskit qiskit-aer numpy
 pip install qiskit
 pip install numpy
 ```
-# Output
+# 🚦 Output 
 ```bash
 === Without eave :> YES! ===
 Errors: 0.00%
